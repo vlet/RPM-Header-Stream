@@ -1,0 +1,6 @@
+Revision history for Perl extension RPM::Header::Stream.
+
+0.010  Tue Nov 29 19:35:28 2011
+	- original version; created by h2xs 1.23 with options
+		-AX -b 5.8.9 -n RPM::Header::Stream -v 0.010
+
