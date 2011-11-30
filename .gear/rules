@@ -1,0 +1,2 @@
+tar: @version@:.
+spec: altlinux/perl-RPM-Header-Stream.spec
